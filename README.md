@@ -1,6 +1,9 @@
 # Lection-2
  ## Function declaration
 
+
+
+
 function declaration определяет функцию с указанными параметрами.
 
 
